@@ -35,3 +35,6 @@ public class InnerClassDemo {
 	}
 
 }
+//Hi
+//Inner abc
+//Static Inner class Method
